@@ -1,0 +1,9 @@
+{
+  "name": "magpie-control-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local MCP server for inspecting and managing Magpie model routing",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.mjs" }
+}
